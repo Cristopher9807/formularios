@@ -1,0 +1,27 @@
+main{
+
+    width:1200px;
+    height: auto; overflow: hidden;
+    border-style: double;
+    border-radius: 10px;
+    border-color: rgb(0, 0, 0);
+    margin: auto;
+    background-color: cadetblue;
+
+}
+
+.boton1
+{
+    background-color: rgb(64, 74, 167);
+    color: white;
+    }
+ .boton2
+ {
+        background-color: rgb(172, 40, 40);
+        color: white;
+        }
+    
+label
+{
+    font-weight: bold;
+}
